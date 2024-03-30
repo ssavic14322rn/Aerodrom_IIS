@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-30T15:38:55.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="aRlt9Q9RaQpDrvmeYZdj" version="24.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-30T15:44:07.919Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7Vuld7Y6fyGJR1FqTU62" version="24.2.1" type="github" pages="2">
   <diagram name="Page-1" id="dMkPxCsCgYjrnD1cgaSa">
-    <mxGraphModel dx="1613" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1720" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,17 +76,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zYkxHDBRKhAp642EZ0QI-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="N16-ZTEuNdFkC9tZuBwp-5" target="N16-ZTEuNdFkC9tZuBwp-1">
+        <mxCell id="zYkxHDBRKhAp642EZ0QI-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.406;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="N16-ZTEuNdFkC9tZuBwp-5" target="N16-ZTEuNdFkC9tZuBwp-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="265" y="370" as="sourcePoint" />
-            <mxPoint x="465" y="480.0000000000001" as="targetPoint" />
+            <mxPoint x="380" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="440" />
+              <mxPoint x="350" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zYkxHDBRKhAp642EZ0QI-2" value="Plan_Dolazećih_Vozila" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-85;" vertex="1" parent="1">
-          <mxGeometry x="320" y="430" width="150" height="30" as="geometry" />
+          <mxGeometry x="275" y="420" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zYkxHDBRKhAp642EZ0QI-4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="N16-ZTEuNdFkC9tZuBwp-1" target="N16-ZTEuNdFkC9tZuBwp-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zYkxHDBRKhAp642EZ0QI-5" value="Plan_Sletanja" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-85;" vertex="1" parent="1">
-          <mxGeometry x="225" y="440" width="100" height="30" as="geometry" />
+          <mxGeometry x="230" y="430" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zYkxHDBRKhAp642EZ0QI-8" value="Kupovina_Karte" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="455" y="80" width="110" height="30" as="geometry" />
@@ -159,6 +159,18 @@
         </mxCell>
         <mxCell id="7MpKoGEB8ea7BJYRipoG-5" value="Dodeljene_Stanice" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="460" y="428" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NFr-0_1pKD1H3H-imxBE-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.624;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="N16-ZTEuNdFkC9tZuBwp-5" target="N16-ZTEuNdFkC9tZuBwp-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="540" as="sourcePoint" />
+            <mxPoint x="405" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NFr-0_1pKD1H3H-imxBE-2" value="Red_Vožnje" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="425" y="420" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -253,7 +265,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qE0PXEFiPmY2LjTQhsdM-1" value="Prevozne službe" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="270" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qE0PXEFiPmY2LjTQhsdM-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="585" y="520" width="150" height="100" as="geometry" />
@@ -378,17 +390,35 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yXWlxbYczMwC6bWezyqw-25" value="Prodaja karata" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="465" y="650" width="120" height="80" as="geometry" />
+        <mxCell id="yXWlxbYczMwC6bWezyqw-25" value="Planiranje prevoza" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="270" y="650" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HGrn4RjoPQ3LDkPpKF_r-1" value="Plan_Sletanja" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-85;" vertex="1" parent="1">
           <mxGeometry x="20" y="770" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nbq6msbqnLZOKfvDoZVX-1" value="Plan_Dolazećih_Vozila" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-85;" vertex="1" parent="1">
-          <mxGeometry x="70" y="770" width="150" height="30" as="geometry" />
+          <mxGeometry x="160" y="770" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qSQ7mLkaVe67iEcqSR0Z-1" value="Dodeljene_Stanice" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="160" y="800" width="120" height="30" as="geometry" />
+          <mxGeometry x="425" y="770" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qSQ7mLkaVe67iEcqSR0Z-2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qE0PXEFiPmY2LjTQhsdM-1" target="yXWlxbYczMwC6bWezyqw-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="558" y="892" as="sourcePoint" />
+            <mxPoint x="520" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4my-KHYEr8YqdkbvOa_w-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yXWlxbYczMwC6bWezyqw-25" target="qE0PXEFiPmY2LjTQhsdM-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="882" as="sourcePoint" />
+            <mxPoint x="547" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="780" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
